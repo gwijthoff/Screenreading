@@ -29,17 +29,19 @@ From novels to newspapers, legal contracts to medical records, the past decade h
 - Stephen Ramsay, [The Hermeneutics of Screwing Around; or, What You Do With a Million Books](http://www.playingwithhistory.com/wp-content/uploads/2010/04/hermeneutics.pdf) (2010)
 - Craig Mod, ["Books in the Age of the iPad"](http://craigmod.com/journal/ipad_and_books/) (2010)
 
-**January 30: The invention of writing changed the human condition.**
+**January 30: The invention of writing coincides with the emergence of civilization.**
 
 - Denise Schmandt-Besserat, *How Writing Came About* (1997)
 - Lydia Liu, "Writing," in *Critical Terms for Media Studies* (2010)
 - Walter Ong, *Orality and Literacy* (1982)
     - "Print, Space and Closure"
     - "Oral Memory, The Story Line and Characterization"
+- Mara Mills, ["What Should We Call Reading?"](http://flowtv.org/2012/12/what-should-we-call-reading/), *Flow TV* (2012)
     
 Supplementary:
 
 - Barry Powell, *Writing: History and Theory of the Technology of Civilization* (2012)
+- André Leroi-Gourhan, *Gesture and Speech* (1965), p. ~113
     
 **February 6: Western thought is the product of a paradigm shift from orality to literacy.**
 
@@ -57,20 +59,21 @@ Supplementary:
     - 1. Preliminaries: The Introduction of Paper into Europe
     - 2. The Technical Problems and their Solution
     - 3. The Book: Its Visual Appearance
-- \[book history website\]
+- Erin Reilly, Ritesh Mehta, Henry Jenkins, [*Flows of Reading: Engaging With Texts*](http://scalar.usc.edu/anvc/flowsofreading/index), a USC Scalar project
 
 ***February 19: LAB 1: Annotation***
 
-> A workshop on tools for organizing and annotating digital text, including Zotero, Calibre, Evernote, Delicious, Goodreader, and Skim.
+> A workshop on tools for organizing and annotating digital text, including Zotero, Calibre, Evernote, Delicious, Goodreader, Skim, Institute for the Future of the Book's Open Utopia, and Prism.
 
 **February 20: It took 200 years for libraries to shelve print & manuscript as separate entities.**
 
 - David McKitterick, *Print, Manuscript, and the Search for Order, 1450-1830** (2003), p. 1-52
-    - 1.
-    - 2. 
+    - 1. The Printed Word and the Modern Bibliographer
+    - 2. Dependent Skills
 - Adrian Johns, *The Nature of the Book: Print and Knowledge in the Making* (2000), pp. 1-57, 380-443
     - 1. Introduction: The Book of Nature and the Nature of the Book
     - 6. The Physiology of Reading: Print and the Passions
+- [Reading Experiences Database](http://www.open.ac.uk/Arts/reading/UK/index.php): the experience of reading in Britain, from 1450-1945
     
 **February 27: "How greatly this page here resembles a thousand other pages."**
 
@@ -132,11 +135,17 @@ Supplementary:
 - Alexis Madrigal, ["Books on Paper Fight Analog Distractions"](http://www.theatlantic.com/technology/archive/2012/03/books-on-paper-fight-analog-distractions/254049/) (2012)
 - Nicholas Carr, ["Is Google Making Us Stupid?"](http://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/) (2008)
 
+Supplementary:
+
+- Alex Soojung-Kim Pang, *The Distraction Addiction: Getting the Information You Need and the Communication You Want, Without Enraging Your Family, Annoying Your Colleagues, and Destroying Your Soul* (2013)
+- Chade Meng Tan, *Search Inside Yourself* (2012), by Google's "happiness guru"
+
 **April 17: Reading takes place within feedback loops between old and new technologies.**
 
 - Andrew Piper, *Book Was There: Reading in Electronic Times* (2012)
 - N. Katherine Hayles, *My Mother Was a Computer* (2005)
     - \[selections]
+- Roundup of [Implementing New Knowledge Environments](http://www.dh2012.uni-hamburg.de/conference/programme/abstracts/designing-interactive-reading-environments-for-the-online-scholarly-edition/) (INKE) projects from DH2012
 
 **April 24: There have been 129,864,880 books published, ever.**
 
@@ -152,7 +161,7 @@ Supplementary:
 
 - [*Electronic Literature Collection,*](http://collection.eliterature.org/2/) vol. 2 (2011)
 - Craig Mod, ["Post-Artifact Books and Publishing"](http://craigmod.com/journal/post_artifact/) (2011)
-- Craig Mod, ["Platforming Books: Making *Art Space Tokyo* Digital"](2012)
+- Craig Mod, ["Platforming Books: Making *Art Space Tokyo* Digital"](http://craigmod.com/journal/platforming_books/) (2012)
 - Craig Mod, ["Embracing the Digital Book"](http://craigmod.com/journal/ebooks/) (2010)
 
 * * * 
