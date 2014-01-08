@@ -95,8 +95,9 @@ Supplementary:
 - Michel de Certeau, "Reading as Poaching," in *The Practice of Everyday Life* (1984)
 - Leah Price, *How to Do Things With Books in Victorian Britain* (2012) OR "You Are What You Read," *The New York Times,* Dec. 23, 2007.\
 
-***==== Spring Break ====***\
-\
+***March 17-23: Spring Break***
+
+* * * 
 
 **March 27: Texts cannot be said to have fixed properties; they are always in flux.**
 
