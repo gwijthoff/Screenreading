@@ -1,0 +1,133 @@
+---
+title: | 
+    **ENGL W3986: Screen Reading**\
+    Spring 2014\
+    Thursday, 4:10 - 6:00\
+author: |
+    Professor: Grant Wythoff\
+    <gw2290@columbia.edu>\
+    Heyman Center 304\
+    Office Hours: Wed, 10:30 - 12:00
+---
+
+## Description
+
+From novels to newspapers, legal contracts to medical records, the past decade has seen a dramatic movement of readers from page to screen. For Sven Birkerts, screen reading is “a keyword-driven process, and the reader has to exert near constant mental counter-pressure – drive with his foot on the brakes, as it were.” Do we accept that a change in format can have such an effect on the ways we read? In order to better understand the “newness” of digital media, this advanced undergraduate seminar will examine practices of the book from Renaissance humanism to machine reading. How do technologies of literacy – scrolling, bookmarking, page, index, tab, bookshelf – become metaphors in the digital age? Are there any traces of these original tools and techniques in their metaphorical afterlives? Finally, what new forms of knowledge are made possible by the so-called “distant reading” of digitized text? Each week, we will discuss key assertions in the history of the book that emphasize the materiality of literature in different ways: from the importance of the book as a unit of knowledge production to the instabilities of textuality across print, manuscript, and XML versions. With each of our writing assignments, we will approach our screens not just as readers, but as writers who design texts with an eye toward particular modes of reading.
+
+## Requirements
+
+## Schedule
+
+**January 23: Preliminaries**
+
+- Sven Birkerts, ["The Room and the Elephant"](http://lareviewofbooks.org/essay/the-room-and-the-elephant) (2011)
+- Jaron Lanier, Introduction to *You Are Not a Gadget* (2010)
+- Stephen Ramsay, [The Hermeneutics of Screwing Around; or, What You Do With a Million Books](http://www.playingwithhistory.com/wp-content/uploads/2010/04/hermeneutics.pdf) (2010)
+
+**January 30: Western thought is the product of a paradigm shift from orality to literacy (1).**
+
+\[or other clear argument from beginning of Schmandt\]
+
+- Denise Schmandt-Besserat, *How Writing Came About* (1997)
+- Lydia Liu, "Writing," in *Critical Terms for Media Studies* (2010)
+- Walter Ong, *Orality and Literacy* (1982)
+    - "Print, Space and Closure"
+    - "Oral Memory, The Story Line and Characterization"
+    
+Supplementary:
+
+- Barry Powell, *Writing: History and Theory of the Technology of Civilization* (2012)
+    
+**February 6: Western thought is the product of a paradigm shift from orality to literacy (2).**
+
+- Marshall McLuhan, *Understanding Media: The Extensions of Man* (1964), p. 7-21, 77-105
+    - The Medium is the Message
+    - The Spoken Word: Flower of Evil?
+    - The Written Word: An Eye for an Ear
+    - Roads and Paper Routes
+- Friedrich Kittler, ["The History of Communication Media,"](http://www.ctheory.net/articles.aspx?id=45) *CTHEORY* (July 1996)
+
+**February 13: Books process, record, and transmit data.**
+
+- Lucien Febvre and Henri-Jean Martin, *The Coming of the Book: The Impact of Printing 1450-1800* (1976), p. 8-108
+    - Preface
+    - 1. Preliminaries: The Introduction of Paper into Europe
+    - 2. The Technical Problems and their Solution
+    - 3. The Book: Its Visual Appearance
+- \[book history website\]
+
+***February 19: LAB 1: Annotation***
+
+> A workshop on tools for organizing and annotating digital text, including Zotero, Evernote, Delicious, Goodreader, and Skim.
+
+**February 20: It took 200 years for libraries to shelve print & manuscript as separate entities.**
+
+- David McKitterick, *Print, Manuscript, and the Search for Order, 1450-1830** (2003), p. 1-52
+    - 1.
+    - 2. 
+- Adrian Johns, *The Nature of the Book: Print and Knowledge in the Making* (2000), pp. 1-57, 380-443
+    - 1. Introduction: The Book of Nature and the Nature of the Book
+    - 6. The Physiology of Reading: Print and the Passions
+    
+**February 27: "How greatly this page here resembles a thousand other pages."**
+
+- Roger Chartier, *The Order of Books: Readers, Authors, and Libraries in Europe between the Fourteenth and Eighteenth Centuries* (1992), 92pp
+- Roger Chartier, "Texts, Printings, Readings," in *The New Cultural History*, ed. Hunt (1989)
+- Anthony Grafton, "Codex in Crisis: The Book Dematerializes", in Worlds Made By Words: Scholarship and Community in the Modern West* (2009), pp. 288-326.
+
+**March 6: "They conveyed their thoughts to one another in an instant over cities or mountains."**
+
+- Andrew Piper, *Dreaming in Books: Making of the Bibliographic Imagination in the Romantic Age* (2009), pp. 1-18, 121-152
+    - Introduction: Bibliographic Subjects
+    - 4. Sharing
+- Elspeth Jajdelska, *Silent Reading and the Birth of the Narrator* (2007)
+    - \[selections\]
+- \[Readings on sharing ebooks\]
+
+***March 12: LAB 2: Writing***
+
+> A workshop on word processing, markup, and typesetting systems, including Pandoc, markdown, and Scrivener.
+
+**March 13:**
+
+- Ellen Gruber Garvey, *Writing with Scissors: American Scrapbooks from the Civil War to the Harlem Renaissance* (2012)
+    - \[selections\]
+- Michel de Certeau, "Reading as Poaching," in *The Practice of Everyday Life* (1984)
+- Leah Price, *How to Do Things With Books in Victorian Britain* (2012) OR "You Are What You Read," *The New York Times,* Dec. 23, 2007.\
+
+***==== Spring Break ====***\
+\
+
+**March 27: Texts cannot be said to have fixed properties; they are always in flux.**
+
+- \[Intro to textual studies\]
+- Jerome McGann, *Radiant Textuality: Literature After the World Wide Web* (2001), pp. 1-28, 137-166, 193-208
+    - Introduction. Beginning Again: Humanities and Digital Culture, 1993-2000
+    - 5. Rethinking Textuality
+    - 7. Dialogue and Interpretation at the Interface of Man and Machine
+
+Supplementary:
+
+- Gerard Passannante, *The Lucretian Renaissance: Philology and the Afterlife of Tradition* (2011)
+
+***April 2: LAB 3: Interface***
+
+> A workshop on the [Makey Makey](http://www.makeymakey.com/) interface controller.
+
+**April 3: Media reconfigure the logic of the senses.**
+
+**April 10: Multitasking threatens attention span and the ability to sustain complex thought.**
+
+**April 17: Reading takes place within feedback loops between old and new technologies.**
+
+**April 24: There have been 129,864,880 books published, ever.**
+
+***April 30: LAB 4: Collaboration***
+
+> Experiments with notes taken throughout the term.
+
+**May 1: The book has become a "post-artifact," platform independent medium.**
+
+* * * 
+
+Title to still be used: New media are described mathematically and subject to algorithmic manipulation.
