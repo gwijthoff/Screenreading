@@ -16,11 +16,11 @@ From novels to newspapers, legal contracts to medical records, the past decade h
 
 ## Requirements
 
-Attendance and participation (including presentations): 30%
-Weekly writing exercises: 30%
-Final project: 40%
+- Attendance and participation (including presentations): 30%
+- Weekly writing exercises: 30%
+- Final project: 40%
 
-## Schedule
+# Schedule
 
 **January 23: Preliminaries**
 
@@ -29,9 +29,7 @@ Final project: 40%
 - Stephen Ramsay, [The Hermeneutics of Screwing Around; or, What You Do With a Million Books](http://www.playingwithhistory.com/wp-content/uploads/2010/04/hermeneutics.pdf) (2010)
 - Craig Mod, ["Books in the Age of the iPad"](http://craigmod.com/journal/ipad_and_books/) (2010)
 
-**January 30: Western thought is the product of a paradigm shift from orality to literacy (1).**
-
-\[or other clear argument from beginning of Schmandt\]
+**January 30: The invention of writing changed the human condition.**
 
 - Denise Schmandt-Besserat, *How Writing Came About* (1997)
 - Lydia Liu, "Writing," in *Critical Terms for Media Studies* (2010)
@@ -43,7 +41,7 @@ Supplementary:
 
 - Barry Powell, *Writing: History and Theory of the Technology of Civilization* (2012)
     
-**February 6: Western thought is the product of a paradigm shift from orality to literacy (2).**
+**February 6: Western thought is the product of a paradigm shift from orality to literacy.**
 
 - Marshall McLuhan, *Understanding Media: The Extensions of Man* (1964), p. 7-21, 77-105
     - The Medium is the Message
