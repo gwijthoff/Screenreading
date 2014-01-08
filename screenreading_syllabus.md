@@ -23,6 +23,7 @@ From novels to newspapers, legal contracts to medical records, the past decade h
 - Sven Birkerts, ["The Room and the Elephant"](http://lareviewofbooks.org/essay/the-room-and-the-elephant) (2011)
 - Jaron Lanier, Introduction to *You Are Not a Gadget* (2010)
 - Stephen Ramsay, [The Hermeneutics of Screwing Around; or, What You Do With a Million Books](http://www.playingwithhistory.com/wp-content/uploads/2010/04/hermeneutics.pdf) (2010)
+- Craig Mod, ["Books in the Age of the iPad"](http://craigmod.com/journal/ipad_and_books/) (2010)
 
 **January 30: Western thought is the product of a paradigm shift from orality to literacy (1).**
 
@@ -113,15 +114,33 @@ Supplementary:
 
 ***April 2: LAB 3: Interface***
 
-> A workshop on the [Makey Makey](http://www.makeymakey.com/) interface controller.
+> A workshop on the [Makey Makey](http://www.makeymakey.com/) interface kit.
 
 **April 3: Media reconfigure the logic of the senses.**
 
+- Anne Friedberg, *The Virtual Window: From Alberti to Microsoft* (2009), pp. 1-24, 101-148, 191-248
+    - Introduction: The Virtual Window
+    - 3. The Age of 'Windows'
+    - 5. The Multiple
+    - Conclusion: The Future of Windows: Smart Glass, Streaming Portals, and Screenless Images
+
 **April 10: Multitasking threatens attention span and the ability to sustain complex thought.**
+
+- N. Katherine Hayles, "Print is Flat, Code is Deep: The Importance of Media-Specific Analysis," *Poetics Today* (Spring 2004)
+- Alexis Madrigal, ["Books on Paper Fight Analog Distractions"](http://www.theatlantic.com/technology/archive/2012/03/books-on-paper-fight-analog-distractions/254049/) (2012)
+- Nicholas Carr, ["Is Google Making Us Stupid?"](http://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/) (2008)
 
 **April 17: Reading takes place within feedback loops between old and new technologies.**
 
+- Andrew Piper, *Book Was There: Reading in Electronic Times* (2012)
+- N. Katherine Hayles, *My Mother Was a Computer* (2005)
+    - \[selections]
+
 **April 24: There have been 129,864,880 books published, ever.**
+
+- Franco Moretti, *Graphs, Maps, Trees: Abstract Models for Literary History* (2007)
+- D. Sculley and Bradley Pasanek, "Meaning and Mining: The Impact of Implicit Assumptions in Data Mining for the Humanities," *Literary and Linguistic Computing* (2008)
+- Robert Darnton, ["Google and the Future of Books,"](http://www.nybooks.com/articles/archives/2009/feb/12/google-the-future-of-books/?pagination=false) *New York Review of Books* (2009)
 
 ***April 30: LAB 4: Collaboration***
 
@@ -129,6 +148,10 @@ Supplementary:
 
 **May 1: The book has become a "post-artifact," platform independent medium.**
 
+- [*Electronic Literature Collection,*](http://collection.eliterature.org/2/) vol. 2 (2011)
+- Craig Mod, ["Post-Artifact Books and Publishing"](http://craigmod.com/journal/post_artifact/) (2011)
+- Craig Mod, ["Platforming Books: Making *Art Space Tokyo* Digital"](2012)
+- Craig Mod, ["Embracing the Digital Book"](http://craigmod.com/journal/ebooks/) (2010)
+
 * * * 
 
-Title to still be used: New media are described mathematically and subject to algorithmic manipulation.
