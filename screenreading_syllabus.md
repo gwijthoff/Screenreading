@@ -16,6 +16,10 @@ From novels to newspapers, legal contracts to medical records, the past decade h
 
 ## Requirements
 
+Attendance and participation (including presentations): 30%
+Weekly writing exercises: 30%
+Final project: 40%
+
 ## Schedule
 
 **January 23: Preliminaries**
@@ -59,7 +63,7 @@ Supplementary:
 
 ***February 19: LAB 1: Annotation***
 
-> A workshop on tools for organizing and annotating digital text, including Zotero, Evernote, Delicious, Goodreader, and Skim.
+> A workshop on tools for organizing and annotating digital text, including Zotero, Calibre, Evernote, Delicious, Goodreader, and Skim.
 
 **February 20: It took 200 years for libraries to shelve print & manuscript as separate entities.**
 
