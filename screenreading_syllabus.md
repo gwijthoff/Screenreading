@@ -143,8 +143,9 @@ Supplementary:
 **April 17: Reading takes place within feedback loops between old and new technologies.**
 
 - Andrew Piper, *Book Was There: Reading in Electronic Times* (2012)
-- N. Katherine Hayles, *My Mother Was a Computer* (2005)
-    - \[selections]
+- N. Katherine Hayles, *My Mother Was a Computer* (2005), pp. 1-14, 89-116
+    - Prologue: Computing Kin
+    - 4. Translating Media
 - Roundup of [Implementing New Knowledge Environments](http://www.dh2012.uni-hamburg.de/conference/programme/abstracts/designing-interactive-reading-environments-for-the-online-scholarly-edition/) (INKE) projects from DH2012
 
 **April 24: There have been 129,864,880 books published, ever.**
