@@ -20,13 +20,24 @@ From novels to newspapers, legal contracts to medical records, the past decade h
 - Weekly writing exercises: 30%
 - Final project: 40%
 
+## Course texts
+
+All readings for the course will be provided in electronic versions. However, 
+
+- Tao Lin, *Taipei*
+- Andrew Piper, *Book Was There: Reading in Electronic Times*
+- Steven Fischer, *A History of Reading*
+
 ## Online resources
 
 - [Institute for the Future of the Book](http://www.futureofthebook.org/)
+- [Electronic Literature Organization](http://eliterature.org/)
 - [Future of the Book column](http://www.themillions.com/category/features/the-future-of-the-book) on *The Millions*
 - [Futurebook](http://www.futurebook.net/) blog by *The Bookseller*
-- James Bridle's <booktwo.org>
-- [Craig Mod](http://craigmod.com/)
+- Blogs
+    - James Bridle's <booktwo.org>
+    - [Craig Mod](http://craigmod.com/)
+    - Khol Vinh, [*Subtraction*](http://www.subtraction.com/)
 
 ## Potential field trips around New York
 
@@ -143,6 +154,8 @@ Supplementary:
     - 3. The Age of 'Windows'
     - 5. The Multiple
     - Conclusion: The Future of Windows: Smart Glass, Streaming Portals, and Screenless Images
+- Johanna Drucker, "Reading Interface," *PMLA* (2013)
+- Write an epistle with [Between Page and Screen](http://www.betweenpageandscreen.com/epistles)
 
 **April 10: Multitasking threatens attention span and the ability to sustain complex thought.**
 
@@ -178,10 +191,14 @@ Supplementary:
 
 - [*Electronic Literature Collection,*](http://collection.eliterature.org/2/) vol. 2 (2011)
 - The Newer York's [Electric Encyclopedia of Experimental Literature](http://www.theneweryork.com/eeel/)
-- Sonja Todd, ["My Latest Article is a PDF"](http://www.themillions.com/wp-content/uploads/2013/08/MyLatestArticleisaPDFedit.pdf), *The Millions* (2013)
 - Craig Mod, ["Post-Artifact Books and Publishing"](http://craigmod.com/journal/post_artifact/) (2011)
 - Craig Mod, ["Platforming Books: Making *Art Space Tokyo* Digital"](http://craigmod.com/journal/platforming_books/) (2012)
 - Craig Mod, ["Embracing the Digital Book"](http://craigmod.com/journal/ebooks/) (2010)
+
+- Tao Lin, *Taipei* (2013)
+- Lutz Koepnick, "Reading on the Move," *PMLA* (2013)
+- Sonja Todd, ["My Latest Article is a PDF"](http://www.themillions.com/wp-content/uploads/2013/08/MyLatestArticleisaPDFedit.pdf), *The Millions* (2013)
+- \[something on [Alt Lit](http://www.futurebook.net/content/publishing-about-come-face-face-corridor-mirrors-alt-lit)\]
 
 * * * 
 
