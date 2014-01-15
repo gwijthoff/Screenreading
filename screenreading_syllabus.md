@@ -20,12 +20,24 @@ From novels to newspapers, legal contracts to medical records, the past decade h
 - Weekly writing exercises: 30%
 - Final project: 40%
 
+## Online resources
+
+- [Institute for the Future of the Book](http://www.futureofthebook.org/)
+- [Future of the Book column](http://www.themillions.com/category/features/the-future-of-the-book) on *The Millions*
+- [Futurebook](http://www.futurebook.net/) blog by *The Bookseller*
+- James Bridle's <booktwo.org>
+- [Craig Mod](http://craigmod.com/)
+
+## Potential field trips around New York
+
+- 
+
 # Schedule
 
 **January 23: Preliminaries**
 
 - Sven Birkerts, ["The Room and the Elephant"](http://lareviewofbooks.org/essay/the-room-and-the-elephant) (2011)
-- Jaron Lanier, Introduction to *You Are Not a Gadget* (2010)
+- Jaron Lanier, Preface to *You Are Not a Gadget* (2010)
 - Stephen Ramsay, [The Hermeneutics of Screwing Around; or, What You Do With a Million Books](http://www.playingwithhistory.com/wp-content/uploads/2010/04/hermeneutics.pdf) (2010)
 - Craig Mod, ["Books in the Age of the iPad"](http://craigmod.com/journal/ipad_and_books/) (2010)
 
@@ -51,6 +63,7 @@ Supplementary:
     - The Written Word: An Eye for an Ear
     - Roads and Paper Routes
 - Friedrich Kittler, ["The History of Communication Media,"](http://www.ctheory.net/articles.aspx?id=45) *CTHEORY* (July 1996)
+- Amaranth Borsuk, Jesper Juul and Nick Montfort, [*The Deletionist*](http://thedeletionist.com/) bookmarklet, "a concise system for automatically producing an erasure poem from any Web page. It systematically removes text to uncover poems, discovering a network of poems called “the Worl” within the World Wide Web."
 
 **February 13: Books process, record, and transmit data.**
 
@@ -67,7 +80,7 @@ Supplementary:
 
 **February 20: It took 200 years for libraries to shelve print & manuscript as separate entities.**
 
-- David McKitterick, *Print, Manuscript, and the Search for Order, 1450-1830** (2003), p. 1-52
+- David McKitterick, *Print, Manuscript, and the Search for Order, 1450-1830* (2003), p. 1-52
     - 1. The Printed Word and the Modern Bibliographer
     - 2. Dependent Skills
 - Adrian Johns, *The Nature of the Book: Print and Knowledge in the Making* (2000), pp. 1-57, 380-443
@@ -79,7 +92,8 @@ Supplementary:
 
 - Roger Chartier, *The Order of Books: Readers, Authors, and Libraries in Europe between the Fourteenth and Eighteenth Centuries* (1992), 92pp
 - Roger Chartier, "Texts, Printings, Readings," in *The New Cultural History*, ed. Hunt (1989)
-- Anthony Grafton, "Codex in Crisis: The Book Dematerializes", in Worlds Made By Words: Scholarship and Community in the Modern West* (2009), pp. 288-326.
+- Anthony Grafton, "Codex in Crisis: The Book Dematerializes", in *Worlds Made By Words: Scholarship and Community in the Modern West* (2009), pp. 288-326.
+- Assignment with [X-Ray Goggles](https://goggles.webmaker.org/) by [Mozilla Webmaker](https://webmaker.org/): remix and publish one website.
 
 **March 6: "They conveyed their thoughts to one another in an instant over cities or mountains."**
 
@@ -88,6 +102,7 @@ Supplementary:
     - 4. Sharing
 - Elspeth Jajdelska, *Silent Reading and the Birth of the Narrator* (2007)
     - \[selections\]
+- ["Future of the Book"](http://www.ideo.com/work/future-of-the-book/) (2010), ["Zinio"](http://www.ideo.com/work/zinio-reader/) (2001), and  Ideo's design exploration of digital reading.
 - \[Readings on sharing ebooks\]
 
 ***March 12: LAB 2: Writing***
@@ -146,6 +161,7 @@ Supplementary:
 - N. Katherine Hayles, *My Mother Was a Computer* (2005), pp. 1-14, 89-116
     - Prologue: Computing Kin
     - 4. Translating Media
+- James Bridle, ["How to See Through the Cloud"](https://stml.makes.org/thimble/how-to-see-through-the-cloud) (2013), a brief introduction to the physical structure of the web
 - Roundup of [Implementing New Knowledge Environments](http://www.dh2012.uni-hamburg.de/conference/programme/abstracts/designing-interactive-reading-environments-for-the-online-scholarly-edition/) (INKE) projects from DH2012
 
 **April 24: There have been 129,864,880 books published, ever.**
@@ -161,6 +177,8 @@ Supplementary:
 **May 1: The book has become a "post-artifact," platform independent medium.**
 
 - [*Electronic Literature Collection,*](http://collection.eliterature.org/2/) vol. 2 (2011)
+- The Newer York's [Electric Encyclopedia of Experimental Literature](http://www.theneweryork.com/eeel/)
+- Sonja Todd, ["My Latest Article is a PDF"](http://www.themillions.com/wp-content/uploads/2013/08/MyLatestArticleisaPDFedit.pdf), *The Millions* (2013)
 - Craig Mod, ["Post-Artifact Books and Publishing"](http://craigmod.com/journal/post_artifact/) (2011)
 - Craig Mod, ["Platforming Books: Making *Art Space Tokyo* Digital"](http://craigmod.com/journal/platforming_books/) (2012)
 - Craig Mod, ["Embracing the Digital Book"](http://craigmod.com/journal/ebooks/) (2010)
