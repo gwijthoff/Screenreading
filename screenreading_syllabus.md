@@ -10,6 +10,8 @@ author: |
     Office Hours: Wed, 10:30 - 12:00
 ---
 
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
+
 ## Description
 
 From novels to newspapers, legal contracts to medical records, the past decade has seen a dramatic movement of readers from page to screen. For Sven Birkerts, screen reading is “a keyword-driven process, and the reader has to exert near constant mental counter-pressure – drive with his foot on the brakes, as it were.” Do we accept that a change in format can have such an effect on the ways we read? In order to better understand the “newness” of digital media, this advanced undergraduate seminar will examine practices of the book from Renaissance humanism to machine reading. How do technologies of literacy – scrolling, bookmarking, page, index, tab, bookshelf – become metaphors in the digital age? Are there any traces of these original tools and techniques in their metaphorical afterlives? Finally, what new forms of knowledge are made possible by the so-called “distant reading” of digitized text? Each week, we will discuss key assertions in the history of the book that emphasize the materiality of literature in different ways: from the importance of the book as a unit of knowledge production to the instabilities of textuality across print, manuscript, and XML versions. With each of our writing assignments, we will approach our screens not just as readers, but as writers who design texts with an eye toward particular modes of reading.
@@ -22,7 +24,7 @@ From novels to newspapers, legal contracts to medical records, the past decade h
 
 ## Course texts
 
-All readings for the course will be provided in electronic versions. But in order to fully assess the variety of reading experiences we'll be surveying in the secondary literature throughout the course, I ask that you **buy two** of the following books, each of which runs under $15.
+In keeping with the topic of the course, all readings will be provided in electronic versions. But in order to fully appreciate the variety of reading experiences we'll be learning about throughout the semester, I ask that you **buy any two** of the following books, each of which runs under $15.
 
 - Tao Lin, *Taipei*
 - Andrew Piper, *Book Was There: Reading in Electronic Times*
@@ -77,7 +79,7 @@ Supplementary:
     - The Written Word: An Eye for an Ear
     - Roads and Paper Routes
 - Friedrich Kittler, ["The History of Communication Media,"](http://www.ctheory.net/articles.aspx?id=45) *CTHEORY* (July 1996)
-- Amaranth Borsuk, Jesper Juul and Nick Montfort, [*The Deletionist*](http://thedeletionist.com/) bookmarklet, "a concise system for automatically producing an erasure poem from any Web page. It systematically removes text to uncover poems, discovering a network of poems called “the Worl” within the World Wide Web."
+- Amaranth Borsuk, Jesper Juul and Nick Montfort, [*The Deletionist*](http://thedeletionist.com/) bookmarklet, "a concise system for automatically producing an erasure poem from any Web page.
 
 **February 13: Books process, record, and transmit data.**
 
@@ -166,6 +168,8 @@ Supplementary:
 - Alexis Madrigal, ["Books on Paper Fight Analog Distractions"](http://www.theatlantic.com/technology/archive/2012/03/books-on-paper-fight-analog-distractions/254049/) (2012)
 - Nicholas Carr, ["Is Google Making Us Stupid?"](http://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/) (2008)
 - Michael Cobb, "A Little Like Reading: Preference, Facebook, and Overwhelmed Interpretations," *PMLA* (2013)
+- Naomi S. Baron, "Redefining Reading: The Impact of Digital Communication Media" *PMLA* (2013)
+- Betsy Sparrow, Jenny Liu, and Daniel M. Wegner, "Google Effects on Memory: Cognitive Consequences of Having Information at Our Fingertips," *Science* (2011)
 
 Supplementary:
 
@@ -206,3 +210,4 @@ Supplementary:
 
 * * * 
 
+<!-- pandoc -o screenreading_syllabus.pdf --template screensyl.latex screenreading_syllabus.md -->
