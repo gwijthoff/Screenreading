@@ -22,7 +22,7 @@ From novels to newspapers, legal contracts to medical records, the past decade h
 
 ## Course texts
 
-All readings for the course will be provided in electronic versions. However, 
+All readings for the course will be provided in electronic versions. But in order to fully assess the variety of reading experiences we'll be surveying in the secondary literature throughout the course, I ask that you **buy two** of the following books, each of which runs under $15.
 
 - Tao Lin, *Taipei*
 - Andrew Piper, *Book Was There: Reading in Electronic Times*
@@ -35,13 +35,16 @@ All readings for the course will be provided in electronic versions. However,
 - [Future of the Book column](http://www.themillions.com/category/features/the-future-of-the-book) on *The Millions*
 - [Futurebook](http://www.futurebook.net/) blog by *The Bookseller*
 - Blogs
-    - James Bridle's <booktwo.org>
+    - James Bridle's [booktwo.org](http://booktwo.org)
     - [Craig Mod](http://craigmod.com/)
     - Khol Vinh, [*Subtraction*](http://www.subtraction.com/)
 
 ## Potential field trips around New York
 
-- 
+- [Center for Book Arts](http://centerforbookarts.org/), 28 West 27th St, NY
+- [LeRoy Neiman Center for Print Studies](http://www.columbia.edu/cu/arts/neiman/), 310 Dodge Hall
+- [Barnard Zine Library](http://zines.barnard.edu/), 3009 Broadway
+- [Singularity & Co.](http://savethescifi.com/), 18 Bridge St, DUMBO Brooklyn
 
 # Schedule
 
@@ -162,6 +165,7 @@ Supplementary:
 - N. Katherine Hayles, "Print is Flat, Code is Deep: The Importance of Media-Specific Analysis," *Poetics Today* (Spring 2004)
 - Alexis Madrigal, ["Books on Paper Fight Analog Distractions"](http://www.theatlantic.com/technology/archive/2012/03/books-on-paper-fight-analog-distractions/254049/) (2012)
 - Nicholas Carr, ["Is Google Making Us Stupid?"](http://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/) (2008)
+- Michael Cobb, "A Little Like Reading: Preference, Facebook, and Overwhelmed Interpretations," *PMLA* (2013)
 
 Supplementary:
 
