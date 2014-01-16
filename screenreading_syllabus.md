@@ -21,7 +21,7 @@ Commons Attribution 3.0 United States License</a>.
 
 * * * * * 
 
-[Skip to the schedule…](#schedule)
+[**Skip to the schedule…**](#schedule)
 
 ## Description
 
