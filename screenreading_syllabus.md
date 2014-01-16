@@ -1,8 +1,8 @@
 * * * * *
 
 # ENGL W3986: Screen Reading
-# Spring 2014
-# Thursday, 4:10 - 6:00
+Spring 2014
+Thursday, 4:10 - 6:00
 
 ---
 
