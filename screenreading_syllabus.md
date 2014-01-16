@@ -4,13 +4,13 @@
 
 **Spring 2014**
 
-**Thursday, 4:10 - 6:00**
+**402 Hamilton Hall | Thursday, 4:10 - 6:00**
 
 * * * * * 
 
-**Professor: Grant Wythoff (<gw2290@columbia.edu>)**
+**Professor | Grant Wythoff (<gw2290@columbia.edu>)**
 
-**Office Hours: Wed, 10:30 - 12:00, Heyman Center 304**
+**Office Hours | Wed, 10:30 - 12:00 | Heyman Center 304**
 
 * * * * * 
 
@@ -21,9 +21,11 @@ Commons Attribution 3.0 United States License</a>.
 
 * * * * * 
 
+[Skip to the schedule…](#schedule)
+
 ## Description
 
-From novels to newspapers, legal contracts to medical records, the past decade has seen a dramatic movement of readers from page to screen. For Sven Birkerts, screen reading is “a keyword-driven process, and the reader has to exert near constant mental counter-pressure – drive with his foot on the brakes, as it were.” Do we accept that a change in format can have such an effect on the ways we read? In order to better understand the “newness” of digital media, this advanced undergraduate seminar will examine practices of the book from Renaissance humanism to machine reading. How do technologies of literacy – scrolling, bookmarking, page, index, tab, bookshelf – become metaphors in the digital age? Are there any traces of these original tools and techniques in their metaphorical afterlives? Finally, what new forms of knowledge are made possible by the so-called “distant reading” of digitized text? Each week, we will discuss key assertions in the history of the book that emphasize the materiality of literature in different ways: from the importance of the book as a unit of knowledge production to the instabilities of textuality across print, manuscript, and XML versions. With each of our writing assignments, we will approach our screens not just as readers, but as writers who design texts with an eye toward particular modes of reading.
+From novels to newspapers, legal contracts to medical records, the past decade has seen a dramatic movement of readers from page to screen. For Sven Birkerts, screen reading is “a keyword-driven process, and the reader has to exert near constant mental counter-pressure – drive with his foot on the brakes, as it were.” Do we accept that a change in format can have such an effect on the ways we read? In order to better understand the “newness” of digital media, this advanced undergraduate seminar will examine reading practices from the invention of writing to Renaissance humanism to machine learning. How do technologies of the book – scrolling, bookmarking, page, index, tab, bookshelf – become metaphors in the digital age? Are there any traces of these original tools and techniques in their metaphorical afterlives? Finally, what new forms of knowledge are made possible by the so-called “distant reading” of digitized text? Each week, we will discuss key assertions in the history of the book that emphasize the materiality of literature in different ways: from the importance of the book as a unit of knowledge production to the instabilities of textuality across print, manuscript, and XML versions. With each of our writing assignments, we will approach our screens not just as readers, but as writers who design texts with an eye toward particular modes of reading.
 
 # Policies and Assignments
 
@@ -61,42 +63,42 @@ In keeping with the topic of the course, all readings will be provided in electr
 - [Barnard Zine Library](http://zines.barnard.edu/), 3009 Broadway
 - [Singularity & Co.](http://savethescifi.com/), 18 Bridge St, DUMBO Brooklyn
 
-# Schedule
+# Schedule {#schedule}
 
 **January 23: Preliminaries**
 
-- Sven Birkerts, ["The Room and the Elephant"](http://lareviewofbooks.org/essay/the-room-and-the-elephant) (2011)
-- Jaron Lanier, Preface to *You Are Not a Gadget* (2010)
-- Stephen Ramsay, [The Hermeneutics of Screwing Around; or, What You Do With a Million Books](http://www.playingwithhistory.com/wp-content/uploads/2010/04/hermeneutics.pdf) (2010)
-- Craig Mod, ["Books in the Age of the iPad"](http://craigmod.com/journal/ipad_and_books/) (2010)
+- Sven Birkerts, ["The Room and the Elephant"](http://lareviewofbooks.org/essay/the-room-and-the-elephant) (2011, web)
+- Jaron Lanier, Preface to *You Are Not a Gadget* (2010, pdf)
+- Stephen Ramsay, [The Hermeneutics of Screwing Around; or, What You Do With a Million Books](http://www.playingwithhistory.com/wp-content/uploads/2010/04/hermeneutics.pdf) (2010, pdf)
+- Craig Mod, ["Books in the Age of the iPad"](http://craigmod.com/journal/ipad_and_books/) (2010, web)
 
 **January 30: The invention of writing coincides with the emergence of civilization.**
 
-- Denise Schmandt-Besserat, *How Writing Came About* (1997)
-- Lydia Liu, "Writing," in *Critical Terms for Media Studies* (2010)
-- Walter Ong, *Orality and Literacy* (1982)
+- Denise Schmandt-Besserat, *How Writing Came About* (1997, protected pdf)
+- Lydia Liu, "Writing," in *Critical Terms for Media Studies* (2010, protected pdf)
+- Walter Ong, *Orality and Literacy* (1982, protected pdf)
     - "Print, Space and Closure"
     - "Oral Memory, The Story Line and Characterization"
-- Mara Mills, ["What Should We Call Reading?"](http://flowtv.org/2012/12/what-should-we-call-reading/), *Flow TV* (2012)
+- Mara Mills, ["What Should We Call Reading?"](http://flowtv.org/2012/12/what-should-we-call-reading/), *Flow TV* (2012, web)
     
 Supplementary:
 
-- Barry Powell, *Writing: History and Theory of the Technology of Civilization* (2012)
-- André Leroi-Gourhan, *Gesture and Speech* (1965), p. ~113
+- Barry Powell, *Writing: History and Theory of the Technology of Civilization* (2012, protected pdf)
+- André Leroi-Gourhan, *Gesture and Speech* (1965, protected pdf), p. ~113
     
 **February 6: Western thought is the product of a paradigm shift from orality to literacy.**
 
-- Marshall McLuhan, *Understanding Media: The Extensions of Man* (1964), p. 7-21, 77-105
+- Marshall McLuhan, *Understanding Media: The Extensions of Man* (1964, protected pdf), p. 7-21, 77-105
     - The Medium is the Message
     - The Spoken Word: Flower of Evil?
     - The Written Word: An Eye for an Ear
     - Roads and Paper Routes
-- Friedrich Kittler, ["The History of Communication Media,"](http://www.ctheory.net/articles.aspx?id=45) *CTHEORY* (July 1996)
+- Friedrich Kittler, ["The History of Communication Media,"](http://www.ctheory.net/articles.aspx?id=45) *CTHEORY* (July 1996, web)
 - Amaranth Borsuk, Jesper Juul and Nick Montfort, [*The Deletionist*](http://thedeletionist.com/) bookmarklet, "a concise system for automatically producing an erasure poem from any Web page.
 
 **February 13: Books process, record, and transmit data.**
 
-- Lucien Febvre and Henri-Jean Martin, *The Coming of the Book: The Impact of Printing 1450-1800* (1976), p. 8-108
+- Lucien Febvre and Henri-Jean Martin, *The Coming of the Book: The Impact of Printing 1450-1800* (1976, protected pdf), p. 8-108
     - Preface
     - 1. Preliminaries: The Introduction of Paper into Europe
     - 2. The Technical Problems and their Solution
@@ -220,6 +222,8 @@ Supplementary:
 - Lutz Koepnick, "Reading on the Move," *PMLA* (2013)
 - Sonja Todd, ["My Latest Article is a PDF"](http://www.themillions.com/wp-content/uploads/2013/08/MyLatestArticleisaPDFedit.pdf), *The Millions* (2013)
 - \[something on [Alt Lit](http://www.futurebook.net/content/publishing-about-come-face-face-corridor-mirrors-alt-lit)\]
+- **Show and Tell** (I'll bring these books in)
+    - 
 
 * * * 
 
