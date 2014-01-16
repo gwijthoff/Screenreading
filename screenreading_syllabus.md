@@ -55,6 +55,7 @@ In keeping with the topic of the course, all readings will be provided in electr
 - Andrew Piper, *Book Was There: Reading in Electronic Times*
 - Roger Chartier, *The Order of Books*
 - Steven Fischer, *A History of Reading*
+- Franco Moretti, *Graphs, Maps, Trees: Abstract Models for Literary History*
 - Tao Lin, *Taipei*
 
 # Links
@@ -229,6 +230,8 @@ Supplementary:
 > Experiments with notes taken throughout the term.
 
 **May 1: The book has become a "post-artifact," platform independent medium.**
+
+> \[readings still in process\]
 
 - [*Electronic Literature Collection,*](http://collection.eliterature.org/2/) vol. 2 (2011)
 - The Newer York's [Electric Encyclopedia of Experimental Literature](http://www.theneweryork.com/eeel/)
