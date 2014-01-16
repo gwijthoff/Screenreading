@@ -9,11 +9,8 @@
 * * * * * 
 
 **Professor: Grant Wythoff**
-
 **<gw2290@columbia.edu>**
-
 **Heyman Center 304**
-
 **Office Hours: Wed, 10:30 - 12:00**
 
 * * * * * 
@@ -109,7 +106,7 @@ Supplementary:
 
 ***February 19: LAB 1: Annotation***
 
-> A workshop on tools for organizing and annotating digital text, including Zotero, Calibre, Evernote, Delicious, Goodreader, Skim, Institute for the Future of the Book's Open Utopia, and Prism.
+> A workshop on tools for organizing and annotating digital text, including Zotero, Calibre, Evernote, Delicious, Rap Genius, Goodreader, Skim, Institute for the Future of the Book's Open Utopia, and Prism.
 
 **February 20: It took 200 years for libraries to shelve print & manuscript as separate entities.**
 
