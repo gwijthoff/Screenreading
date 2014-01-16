@@ -10,17 +10,25 @@ author: |
     Office Hours: Wed, 10:30 - 12:00
 ---
 
-<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
+![](cc-by.png)
+
+*This syllabus is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/us/).*
+
+* * *
 
 ## Description
 
 From novels to newspapers, legal contracts to medical records, the past decade has seen a dramatic movement of readers from page to screen. For Sven Birkerts, screen reading is “a keyword-driven process, and the reader has to exert near constant mental counter-pressure – drive with his foot on the brakes, as it were.” Do we accept that a change in format can have such an effect on the ways we read? In order to better understand the “newness” of digital media, this advanced undergraduate seminar will examine practices of the book from Renaissance humanism to machine reading. How do technologies of literacy – scrolling, bookmarking, page, index, tab, bookshelf – become metaphors in the digital age? Are there any traces of these original tools and techniques in their metaphorical afterlives? Finally, what new forms of knowledge are made possible by the so-called “distant reading” of digitized text? Each week, we will discuss key assertions in the history of the book that emphasize the materiality of literature in different ways: from the importance of the book as a unit of knowledge production to the instabilities of textuality across print, manuscript, and XML versions. With each of our writing assignments, we will approach our screens not just as readers, but as writers who design texts with an eye toward particular modes of reading.
 
-## Requirements
+# Policies and Assignments
+
+## Grade breakdown
 
 - Attendance and participation (including presentations): 30%
 - Weekly writing exercises: 30%
 - Final project: 40%
+
+## Policies
 
 ## Course texts
 
@@ -209,5 +217,9 @@ Supplementary:
 - \[something on [Alt Lit](http://www.futurebook.net/content/publishing-about-come-face-face-corridor-mirrors-alt-lit)\]
 
 * * * 
+
+## Acknowledgements
+
+Some assignments and readings borrowed from [Katherine Biers](http://english.columbia.edu/people/profile/371), 
 
 <!-- pandoc -o screenreading_syllabus.pdf --template screensyl.latex screenreading_syllabus.md -->
