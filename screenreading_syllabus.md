@@ -8,13 +8,9 @@
 
 * * * * * 
 
-**Professor: Grant Wythoff**
+**Professor: Grant Wythoff (<gw2290@columbia.edu>)**
 
-**<gw2290@columbia.edu>**
-
-**Heyman Center 304**
-
-**Office Hours: Wed, 10:30 - 12:00**
+**Office Hours: Wed, 10:30 - 12:00, Heyman Center 304**
 
 * * * * * 
 
