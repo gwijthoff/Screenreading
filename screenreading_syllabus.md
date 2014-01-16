@@ -65,6 +65,8 @@ In keeping with the topic of the course, all readings will be provided in electr
 
 # Schedule {#schedule}
 
+> All readings listed as "protected PDF" will be available in hard copy at Butler Library reserves.
+
 **January 23: Preliminaries**
 
 - Sven Birkerts, ["The Room and the Elephant"](http://lareviewofbooks.org/essay/the-room-and-the-elephant) (2011, web)
@@ -76,18 +78,22 @@ In keeping with the topic of the course, all readings will be provided in electr
 
 - Denise Schmandt-Besserat, *How Writing Came About* (1997, protected pdf)
 - Lydia Liu, "Writing," in *Critical Terms for Media Studies* (2010, protected pdf)
-- Steven Roger Fischer, *A History of Reading* (2003, protected pdf), pp. 11-98
+- Steven Roger Fischer, [*A History of Reading*]https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Fischer_2003_A_History_of_Reading_CH1-2.pdf) (2003, protected pdf), pp. 11-98
     - "The Immortal Witness"
     - "The Papyrus Tongue"
 - Mara Mills, ["What Should We Call Reading?"](http://flowtv.org/2012/12/what-should-we-call-reading/), *Flow TV* (2012, web)
     
 Supplementary:
 
-- Barry Powell, *Writing: History and Theory of the Technology of Civilization* (2012, protected pdf)
-- André Leroi-Gourhan, *Gesture and Speech* (1965, protected pdf), p. ~113
+- Barry Powell, [*Writing: History and Theory of the Technology of Civilization*](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Powell_2012_Writing_-_theory_and_history_of_the_technology_of_civilization-intro-ch1.pdf) (2012, protected pdf), pp. 1-18
+- André Leroi-Gourhan, ["The Language of Prehominids,"](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Leroi-Gourhan_1993_Gesture_and_Speech-CH3.pdf) in *Gesture and Speech* (1965, protected pdf), p. 112-116
     
 **February 6: Western thought is the product of a paradigm shift from orality to literacy.**
 
+- Walter Ong, [*Orality and Literacy*](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Ong_Hartley_2012_Orality_and_literacy_the_technologizing_of_the_word-CH4-6.pdf) (1982, protected pdf), pp. 77-152
+    - "Writing Restructures Consciousness"
+    - "Print, Space and Closure"
+    - "Oral Memory, The Story Line and Characterization"
 - Marshall McLuhan, *Understanding Media: The Extensions of Man* (1964, protected pdf), p. 7-21, 77-105
     - The Medium is the Message
     - The Spoken Word: Flower of Evil?
@@ -98,7 +104,7 @@ Supplementary:
 
 **February 13: Books process, record, and transmit data.**
 
-- Lucien Febvre and Henri-Jean Martin, *The Coming of the Book: The Impact of Printing 1450-1800* (1976, protected pdf), p. 8-108
+- Lucien Febvre and Henri-Jean Martin, [*The Coming of the Book: The Impact of Printing 1450-1800*](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Febvre_Wootton_1976_The_coming_of_the_book_-_the_impact_of_printing,_1450-1800_CH1-3.pdf) (1976, protected pdf), p. 8-108
     - Preface
     - 1. Preliminaries: The Introduction of Paper into Europe
     - 2. The Technical Problems and their Solution
@@ -107,21 +113,21 @@ Supplementary:
 
 ***February 19: LAB 1: Annotation***
 
-> A workshop on tools for organizing and annotating digital text, including Zotero, Calibre, Evernote, Delicious, Rap Genius, Goodreader, Skim, Institute for the Future of the Book's Open Utopia, and Prism.
+> A workshop on tools for organizing and annotating digital text, including Zotero, Calibre, Evernote, Delicious, Rap Genius, Goodreader, Skim, Annotation Studio (by MIT's HyperStudio) Institute for the Future of the Book's Open Utopia, and Prism.
 
 **February 20: It took 200 years for libraries to shelve print & manuscript as separate entities.**
 
 - David McKitterick, *Print, Manuscript, and the Search for Order, 1450-1830* (2003), p. 1-52
     - 1. The Printed Word and the Modern Bibliographer
     - 2. Dependent Skills
-- Adrian Johns, *The Nature of the Book: Print and Knowledge in the Making* (2000), pp. 1-57, 380-443
+- Adrian Johns, [*The Nature of the Book: Print and Knowledge in the Making*](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Johns_1998_The_nature_of_the_book_-_print_and_knowledge_in_the_making-CH1_CH6.pdf) (2000), pp. 1-57, 380-443
     - 1. Introduction: The Book of Nature and the Nature of the Book
     - 6. The Physiology of Reading: Print and the Passions
 - [Reading Experiences Database](http://www.open.ac.uk/Arts/reading/UK/index.php): the experience of reading in Britain, from 1450-1945
     
 **February 27: "How greatly this page here resembles a thousand other pages."**
 
-- Roger Chartier, *The Order of Books: Readers, Authors, and Libraries in Europe between the Fourteenth and Eighteenth Centuries* (1992), 92pp
+- Roger Chartier, [*The Order of Books: Readers, Authors, and Libraries in Europe between the Fourteenth and Eighteenth Centuries*](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Chartier_1994_The_order_of_books_-_readers,_authors,_and_libraries_in_Europe_between_the.pdf) (1992), 92pp
 - Roger Chartier, "Texts, Printings, Readings," in *The New Cultural History*, ed. Hunt (1989)
 - Anthony Grafton, "Codex in Crisis: The Book Dematerializes", in *Worlds Made By Words: Scholarship and Community in the Modern West* (2009), pp. 288-326.
 - Assignment with [X-Ray Goggles](https://goggles.webmaker.org/) by [Mozilla Webmaker](https://webmaker.org/): remix and publish one website.
@@ -144,8 +150,8 @@ Supplementary:
 
 - Ellen Gruber Garvey, *Writing with Scissors: American Scrapbooks from the Civil War to the Harlem Renaissance* (2012)
     - \[selections\]
-- Michel de Certeau, "Reading as Poaching," in *The Practice of Everyday Life* (1984)
 - Leah Price, *How to Do Things With Books in Victorian Britain* (2012) OR "You Are What You Read," *The New York Times,* Dec. 23, 2007.\
+- Michel de Certeau, ["Reading as Poaching,"](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/de_Certeau_2011_Reading_as_Poaching.pdf) in *The Practice of Everyday Life* (1984), pp. 166-175
 
 ***March 17-23: Spring Break***
 
