@@ -91,7 +91,7 @@ In keeping with the topic of the course, all readings will be provided in electr
 
 - Denise Schmandt-Besserat, *How Writing Came About* (1997, protected pdf)
 - Lydia Liu, "Writing," in *Critical Terms for Media Studies* (2010, protected pdf)
-- Steven Roger Fischer, [*A History of Reading*]https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Fischer_2003_A_History_of_Reading_CH1-2.pdf) (2003, protected pdf), pp. 11-98
+- Steven Roger Fischer, [*A History of Reading*](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Fischer_2003_A_History_of_Reading_CH1-2.pdf) (2003, protected pdf), pp. 11-98
     - "The Immortal Witness"
     - "The Papyrus Tongue"
 - Mara Mills, ["What Should We Call Reading?"](http://flowtv.org/2012/12/what-should-we-call-reading/), *Flow TV* (2012, web)
