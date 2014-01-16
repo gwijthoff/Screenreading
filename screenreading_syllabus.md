@@ -78,7 +78,7 @@ In keeping with the topic of the course, all readings will be provided in electr
 - [Barnard Zine Library](http://zines.barnard.edu/), 3009 Broadway
 - [Singularity & Co.](http://savethescifi.com/), 18 Bridge St, DUMBO Brooklyn
 
-# Schedule {#schedule}
+# Schedule{#schedule}
 
 **January 23: Preliminaries**
 
