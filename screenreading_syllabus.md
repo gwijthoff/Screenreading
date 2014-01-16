@@ -31,19 +31,33 @@ From novels to newspapers, legal contracts to medical records, the past decade h
 
 ## Grade breakdown
 
-- Attendance and participation (including presentations): 30%
-- Weekly writing exercises: 30%
-- Final project: 40%
+- Attendance / participation / presentation: 20%
+- Weekly writing exercises: 20%
+- Essay project: 35%
+- Final exam: 25%
 
-## Policies
+## Course components
+
+Each student will give **a brief presentation** (of no more than 10 minutes) once during the semester to open up our readings to discussion.  Your presentation can involve a close reading of a particular passage, a short activity, or a complication of one of the points made by our authors.  You are not expected to present original research -- if it feels like you're writing a full-on essay in preparation, then you're probably going too far.  Think of the presentation as a way of communicating to the class your thought process as you went through the week's readings.  How did this text sync up with ideas from previous weeks, or with the overall themes of the course thus far?  What were some particular moments you loved, or had a real problem with?  In other words, you will lay out a series of guideposts and questions that will help orient us in the discussion to follow.
+
+Your **essay project** will use one of a number of digital platforms we explore throughout the semester.  You will be expected to not only compose an original argument or narrative, but to highlight and reflect critically on the affordances of the platform you choose.  Further details to follow.
+
+In order to help you focus your reading and to serve as a mnemonic device, I will provide key terms for each week of class. Your **final exam** will consist of a selection of these terms, which you will be asked to define. Please note that the definition I will request is not the dictionary definition of the term, but an elucidation of the term as we have used it in the context of the class: in our discussions, in our readings, and in our project work. You will be expected to cite relevant authors (though not exact quotes or page numbers) as well as class discussions.
+
+## Laptop policy
+
+Bring your laptop to class, every week.  Practice good screen etiquette -- keep it to the side and don't stare too long.
 
 ## Course texts
 
-In keeping with the topic of the course, all readings will be provided in electronic versions. But in order to fully appreciate the variety of reading experiences we'll be learning about throughout the semester, I ask that you **buy any two** of the following books, each of which runs under $15.
+In keeping with the topic of the course, all readings will be provided in electronic versions. But in order to fully appreciate the variety of reading experiences we'll be learning about throughout the semester, all readings listed below as "protected PDF" will be available in hard copy at Butler Library reserves.  Similarly, I ask that you **buy any one** of the following books, each of which runs under $15.
 
-- Tao Lin, *Taipei*
 - Andrew Piper, *Book Was There: Reading in Electronic Times*
+- Roger Chartier, *The Order of Books*
 - Steven Fischer, *A History of Reading*
+- Tao Lin, *Taipei*
+
+# Links
 
 ## Online resources
 
@@ -64,8 +78,6 @@ In keeping with the topic of the course, all readings will be provided in electr
 - [Singularity & Co.](http://savethescifi.com/), 18 Bridge St, DUMBO Brooklyn
 
 # Schedule {#schedule}
-
-> All readings listed as "protected PDF" will be available in hard copy at Butler Library reserves.
 
 **January 23: Preliminaries**
 
@@ -228,13 +240,18 @@ Supplementary:
 - Lutz Koepnick, "Reading on the Move," *PMLA* (2013)
 - Sonja Todd, ["My Latest Article is a PDF"](http://www.themillions.com/wp-content/uploads/2013/08/MyLatestArticleisaPDFedit.pdf), *The Millions* (2013)
 - \[something on [Alt Lit](http://www.futurebook.net/content/publishing-about-come-face-face-corridor-mirrors-alt-lit)\]
-- **Show and Tell** (I'll bring these books in)
-    - 
+- **Show and Tell: Recent Artists' Books** (I'll bring these books in)
+    - Amaranth Claire Borsuk and Brad Bouse, *Between Page and Screen* (2012)
+    - Anne Carson and Gaius Valerius Catullus, *Nox* (2010)
+    - Mark Z. Danielewski, *Only Revolutions* (2006)
+    - Jonathan Safran Foer, *Tree of Codes* (2010)
+    - Steven Hall, *The Raw Shark Texts: A Novel* (2007)
+    - B.S. Johnson, *The Unfortunates* (1969/2007)
 
 * * * 
 
 ## Acknowledgements
 
-Some assignments and readings borrowed from [Katherine Biers](http://english.columbia.edu/people/profile/371), 
+Some assignments and readings borrowed from [Katherine Biers](http://english.columbia.edu/people/profile/371) and [Miriam Posner](http://digitalmateriallabor.org/).
 
 <!-- pandoc -o screenreading_syllabus.pdf --template screensyl.latex screenreading_syllabus.md -->
