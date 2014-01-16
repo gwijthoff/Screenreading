@@ -1,18 +1,22 @@
----
-title: | 
-    **ENGL W3986: Screen Reading**\
-    Spring 2014\
-    Thursday, 4:10 - 6:00\
-author: |
-    Professor: Grant Wythoff\
-    <gw2290@columbia.edu>\
-    Heyman Center 304\
-    Office Hours: Wed, 10:30 - 12:00
+* * * * *
+
+title: |\
+ **ENGL W3986: Screen Reading**\\\
+ Spring 2014\\\
+ Thursday, 4:10 - 6:00\\\
+author: |\
+ Professor: Grant Wythoff\\\
+ <gw2290@columbia.edu>\\\
+ Heyman Center 304\\\
+ Office Hours: Wed, 10:30 - 12:00\
 ---
 
-<a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/us/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/">Creative Commons Attribution 3.0 United States License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/us/80x15.png" /></a><br />This
+work is licensed under a
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/">Creative
+Commons Attribution 3.0 United States License</a>.
 
-* * *
+* * * * *
 
 ## Description
 
