@@ -38,7 +38,9 @@ From novels to newspapers, legal contracts to medical records, the past decade h
 
 ## Course components
 
-Each student will give **a brief presentation** (of no more than 10 minutes) once during the semester to open up our readings to discussion.  Your presentation can involve a close reading of a particular passage, a short activity, or a complication of one of the points made by our authors.  You are not expected to present original research -- if it feels like you're writing a full-on essay in preparation, then you're probably going too far.  Think of the presentation as a way of communicating to the class your thought process as you went through the week's readings.  How did this text sync up with ideas from previous weeks, or with the overall themes of the course thus far?  What were some particular moments you loved, or had a real problem with?  In other words, you will lay out a series of guideposts and questions that will help orient us in the discussion to follow.
+Each student will give a **brief presentation** (of no more than 10 minutes) once during the semester to open up our readings to discussion.  Your presentation can involve a close reading of a particular passage, a short activity, or a complication of one of the points made by our authors.  You are not expected to present original research -- if it feels like you're writing a full-on essay in preparation, then you're probably going too far.  Think of the presentation as a way of communicating to the class your thought process as you went through the week's readings.  How did this text sync up with ideas from previous weeks, or with the overall themes of the course thus far?  What were some particular moments you loved, or had a real problem with?  In other words, you will lay out a series of guideposts and questions that will help orient us in the discussion to follow.
+
+Each week, students will post 400-word **writing exercises** to the CourseWorks blog by classtime on Thursday. The default format for your piece should be a blog post that either a) links to a primary source ([defined](http://www.yale.edu/collections_collaborative/primarysources/primarysources.html) as a document that “provide[s] first-hand testimony or direct evidence concerning a topic under investigation”) related to the readings for the week, or b) an explanation, questioning, or complication of the week's readings.  More specific exercises may emerge throughout the course of the semester, about which there will be further instruction provided.
 
 Your **essay project** will use one of a number of digital platforms we explore throughout the semester.  You will be expected to not only compose an original argument or narrative, but to highlight and reflect critically on the affordances of the platform you choose.  Further details to follow.
 
@@ -56,7 +58,6 @@ In keeping with the topic of the course, all readings will be provided in electr
 - Roger Chartier, *The Order of Books*
 - Steven Fischer, *A History of Reading*
 - Franco Moretti, *Graphs, Maps, Trees: Abstract Models for Literary History*
-- Tao Lin, *Taipei*
 
 # Links
 
@@ -163,7 +164,7 @@ Supplementary:
 
 - Ellen Gruber Garvey, *Writing with Scissors: American Scrapbooks from the Civil War to the Harlem Renaissance* (2012)
     - \[selections\]
-- Leah Price, *How to Do Things With Books in Victorian Britain* (2012) OR "You Are What You Read," *The New York Times,* Dec. 23, 2007.\
+- Leah Price, *How to Do Things With Books in Victorian Britain* (2012) OR "You Are What You Read," *The New York Times,* Dec. 23, 2007.
 - Michel de Certeau, ["Reading as Poaching,"](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/de_Certeau_2011_Reading_as_Poaching.pdf) in *The Practice of Everyday Life* (1984), pp. 166-175
 
 ***March 17-23: Spring Break***
@@ -231,7 +232,7 @@ Supplementary:
 
 **May 1: The book has become a "post-artifact," platform independent medium.**
 
-> \[readings still in process\]
+> \[*Readings still in process.*\]
 
 - [*Electronic Literature Collection,*](http://collection.eliterature.org/2/) vol. 2 (2011)
 - The Newer York's [Electric Encyclopedia of Experimental Literature](http://www.theneweryork.com/eeel/)
@@ -243,7 +244,7 @@ Supplementary:
 - Lutz Koepnick, "Reading on the Move," *PMLA* (2013)
 - Sonja Todd, ["My Latest Article is a PDF"](http://www.themillions.com/wp-content/uploads/2013/08/MyLatestArticleisaPDFedit.pdf), *The Millions* (2013)
 - \[something on [Alt Lit](http://www.futurebook.net/content/publishing-about-come-face-face-corridor-mirrors-alt-lit)\]
-- **Show and Tell: Recent Artists' Books** (I'll bring these books in)
+- **Show and Tell: Recent Artifactual Books** (I'll bring copies of these in)
     - Amaranth Claire Borsuk and Brad Bouse, *Between Page and Screen* (2012)
     - Anne Carson and Gaius Valerius Catullus, *Nox* (2010)
     - Mark Z. Danielewski, *Only Revolutions* (2006)
@@ -255,6 +256,6 @@ Supplementary:
 
 ## Acknowledgements
 
-Some assignments and readings borrowed from [Katherine Biers](http://english.columbia.edu/people/profile/371) and [Miriam Posner](http://digitalmateriallabor.org/).
+Some assignments and readings borrowed from [Katherine Biers](http://english.columbia.edu/people/profile/371), [Adam Finkelstein](http://www.cs.princeton.edu/courses/archive/fall11/cos597B/), and [Miriam Posner](http://digitalmateriallabor.org/).
 
 <!-- pandoc -o screenreading_syllabus.pdf --template screensyl.latex screenreading_syllabus.md -->
