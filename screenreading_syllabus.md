@@ -231,7 +231,8 @@ Supplementary:
 
 Supplementary:
 
-- Jonathan Goodwin and John Holbo, *Reading Graphs, Maps, Trees: Critical Responses to Franco Moretti*
+- Matthew K. Gold, ed., [*Debates in the Digital Humanities*](http://dhdebates.gc.cuny.edu/debates) (2012)
+- Jonathan Goodwin and John Holbo, *Reading Graphs, Maps, Trees: Critical Responses to Franco Moretti* (2011)
 
 ***April 30: LAB 4: Collaboration***
 
