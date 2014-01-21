@@ -108,11 +108,11 @@ Supplementary:
     - "Writing Restructures Consciousness"
     - "Print, Space and Closure"
     - "Oral Memory, The Story Line and Characterization"
-- Marshall McLuhan, *Understanding Media: The Extensions of Man* (1964, protected pdf), p. 7-21, 77-105
+- Marshall McLuhan, [*Understanding Media: The Extensions of Man*](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/McLuhan_1964_Understanding_media_-_the_extensions_of_man-introCH1-8-9.pdf) (1964, protected pdf), p. 3-21, 77-88
+    - Introduction
     - The Medium is the Message
     - The Spoken Word: Flower of Evil?
     - The Written Word: An Eye for an Ear
-    - Roads and Paper Routes
 - Friedrich Kittler, ["The History of Communication Media,"](http://www.ctheory.net/articles.aspx?id=45) *CTHEORY* (July 1996, web)
 - Amaranth Borsuk, Jesper Juul and Nick Montfort, [*The Deletionist*](http://thedeletionist.com/) bookmarklet, "a concise system for automatically producing an erasure poem from any Web page.
 
@@ -148,13 +148,14 @@ Supplementary:
 
 **March 6: "They conveyed their thoughts to one another in an instant over cities or mountains."**
 
-- Andrew Piper, *Dreaming in Books: Making of the Bibliographic Imagination in the Romantic Age* (2009), pp. 1-18, 121-152
+- Andrew Piper, *Dreaming in Books: Making of the Bibliographic Imagination in the Romantic Age* (2009), pp. 1-18, 121-152, 235-245
     - Introduction: Bibliographic Subjects
     - 4. Sharing
+    - In Place of an Afterword: Next to the Book
 - Elspeth Jajdelska, *Silent Reading and the Birth of the Narrator* (2007), pp. 21-75
     - 1. Income, Ideology, and Childhood Reading
     - 2. Pausing for Effect
-- ["Future of the Book"](http://www.ideo.com/work/future-of-the-book/) (2010), ["Zinio"](http://www.ideo.com/work/zinio-reader/) (2001), and  Ideo's design exploration of digital reading.
+- ["Future of the Book"](http://www.ideo.com/work/future-of-the-book/) (2010), ["Zinio"](http://www.ideo.com/work/zinio-reader/) (2001), and Ideo's design exploration of digital reading.
 - \[Readings on sharing ebooks\]
 
 ***March 12: LAB 2: Writing***
