@@ -127,7 +127,7 @@ Supplementary:
 
 ***February 19: LAB 1: Annotation***
 
-> A workshop on tools for organizing and annotating digital text, including Zotero, Calibre, Evernote, Delicious, Rap Genius, Goodreader, Skim, Annotation Studio (by MIT's HyperStudio) Institute for the Future of the Book's Open Utopia, and Prism.
+> A workshop on tools for organizing and annotating digital text, including Zotero, Calibre, Evernote, Delicious, Rap Genius, Goodreader, Skim, Annotation Studio (by MIT's HyperStudio) Institute for the Future of the Book's SocialBook, and Prism.
 
 **February 20: It took 200 years for libraries to shelve print & manuscript as separate entities.**
 
@@ -166,7 +166,7 @@ Supplementary:
 
 - Ellen Gruber Garvey, *Writing with Scissors: American Scrapbooks from the Civil War to the Harlem Renaissance* (2012)
     - \[selections\]
-- Leah Price, *How to Do Things With Books in Victorian Britain* (2012)
+- Leah Price, *How to Do Things With Books in Victorian Britain* (2012). We'll annotate this on Institute for the Future of the Book's "SocialBook" platform.
 - Leah Price, "You Are What You Read," *The New York Times,* Dec. 23, 2007.
 - Michel de Certeau, ["Reading as Poaching,"](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/de_Certeau_2011_Reading_as_Poaching.pdf) in *The Practice of Everyday Life* (1984), pp. 166-175
 
@@ -228,6 +228,10 @@ Supplementary:
 - Franco Moretti, *Graphs, Maps, Trees: Abstract Models for Literary History* (2007)
 - D. Sculley and Bradley Pasanek, "Meaning and Mining: The Impact of Implicit Assumptions in Data Mining for the Humanities," *Literary and Linguistic Computing* (2008)
 - Robert Darnton, ["Google and the Future of Books,"](http://www.nybooks.com/articles/archives/2009/feb/12/google-the-future-of-books/?pagination=false) *New York Review of Books* (2009)
+
+Supplementary:
+
+- Jonathan Goodwin and John Holbo, *Reading Graphs, Maps, Trees: Critical Responses to Franco Moretti*
 
 ***April 30: LAB 4: Collaboration***
 
