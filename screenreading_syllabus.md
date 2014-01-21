@@ -90,7 +90,7 @@ In keeping with the topic of the course, all readings will be provided in electr
 
 **January 30: The invention of writing coincides with the emergence of civilization.**
 
-- Denise Schmandt-Besserat, *How Writing Came About* (1997, protected pdf)
+- Denise Schmandt-Besserat, *How Writing Came About* (1997, protected pdf), pp. 1-85
 - Lydia Liu, "Writing," in *Critical Terms for Media Studies* (2010, protected pdf)
 - Steven Roger Fischer, [*A History of Reading*](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Fischer_2003_A_History_of_Reading_CH1-2.pdf) (2003, protected pdf), pp. 11-98
     - "The Immortal Witness"
@@ -151,8 +151,9 @@ Supplementary:
 - Andrew Piper, *Dreaming in Books: Making of the Bibliographic Imagination in the Romantic Age* (2009), pp. 1-18, 121-152
     - Introduction: Bibliographic Subjects
     - 4. Sharing
-- Elspeth Jajdelska, *Silent Reading and the Birth of the Narrator* (2007)
-    - \[selections\]
+- Elspeth Jajdelska, *Silent Reading and the Birth of the Narrator* (2007), pp. 21-75
+    - 1. Income, Ideology, and Childhood Reading
+    - 2. Pausing for Effect
 - ["Future of the Book"](http://www.ideo.com/work/future-of-the-book/) (2010), ["Zinio"](http://www.ideo.com/work/zinio-reader/) (2001), and  Ideo's design exploration of digital reading.
 - \[Readings on sharing ebooks\]
 
