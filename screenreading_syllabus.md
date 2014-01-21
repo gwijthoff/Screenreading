@@ -81,7 +81,7 @@ In keeping with the topic of the course, all readings will be provided in electr
 
 # <a name="schedule"></a>Schedule
 
-**January 23: Preliminaries**
+# <a name="week1"></a>**January 23: Preliminaries**
 
 - Sven Birkerts, ["The Room and the Elephant"](http://lareviewofbooks.org/essay/the-room-and-the-elephant) (2011, web)
 - Jaron Lanier, [Preface to *You Are Not a Gadget*](https://github.com/gwijthoff/Screenreading/blob/master/readings/week1-preliminaries/Lanier_2010_You_Are_Not_a_Gadget_-_A_Manifesto2.pdf) (2010, pdf)
