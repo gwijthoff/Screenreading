@@ -142,7 +142,7 @@ Supplementary:
 **February 27: "How greatly this page here resembles a thousand other pages."**
 
 - Roger Chartier, [*The Order of Books: Readers, Authors, and Libraries in Europe between the Fourteenth and Eighteenth Centuries*](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Chartier_1994_The_order_of_books_-_readers,_authors,_and_libraries_in_Europe_between_the.pdf) (1992), 92pp
-- Roger Chartier, ["Texts, Printings, Readings,"](https://github.com/gwijthoff/Screenreading/blob/master/readings/week6%20-%20reproducibility/Chartier_1989_Texts%2C_Printings%2C_Readings.pdf) in *The New Cultural History*, ed. Hunt (1989)
+- Roger Chartier, ["Texts, Printings, Readings,"](https://github.com/gwijthoff/Screenreading/blob/master/readings/week6%20-%20reproducibility/Chartier_1989_Texts%2C_Printings%2C_Readings.pdf/?raw=true) in *The New Cultural History*, ed. Hunt (1989)
 - Anthony Grafton, "Codex in Crisis: The Book Dematerializes", in *Worlds Made By Words: Scholarship and Community in the Modern West* (2009), pp. 288-326.
 - Assignment with [X-Ray Goggles](https://goggles.webmaker.org/) by [Mozilla Webmaker](https://webmaker.org/): remix and publish one website.
 
@@ -232,7 +232,7 @@ Supplementary:
 Supplementary:
 
 - Matthew K. Gold, ed., [*Debates in the Digital Humanities*](http://dhdebates.gc.cuny.edu/debates) (2012)
-- Jonathan Goodwin and John Holbo, *Reading Graphs, Maps, Trees: Critical Responses to Franco Moretti* (2011)
+- Jonathan Goodwin and John Holbo, [*Reading Graphs, Maps, Trees: Critical Responses to Franco Moretti*](https://github.com/gwijthoff/Screenreading/blob/master/readings/week13-machine_reading/Goodwin_et_al_2011_Reading_Graphs,_Maps,_Trees_-_Critical_Responses_to_Franco_Moretti.pdf?raw=true) (2011)
 
 ***April 30: LAB 4: Collaboration***
 
