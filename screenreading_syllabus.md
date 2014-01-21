@@ -85,7 +85,7 @@ In keeping with the topic of the course, all readings will be provided in electr
 
 - Sven Birkerts, ["The Room and the Elephant"](http://lareviewofbooks.org/essay/the-room-and-the-elephant) (2011, web)
 - Jaron Lanier, [Preface to *You Are Not a Gadget*](https://github.com/gwijthoff/Screenreading/blob/master/readings/week1-preliminaries/Lanier_2010_You_Are_Not_a_Gadget_-_A_Manifesto2.pdf?raw=true) (2010, pdf)
-- Stephen Ramsay, [The Hermeneutics of Screwing Around; or, What You Do With a Million Books](http://www.playingwithhistory.com/wp-content/uploads/2010/04/hermeneutics.pdf) (2010, pdf)
+- Stephen Ramsay, ["The Hermeneutics of Screwing Around; or, What You Do With a Million Books"](http://www.playingwithhistory.com/wp-content/uploads/2010/04/hermeneutics.pdf) (2010, pdf)
 - Craig Mod, ["Books in the Age of the iPad"](http://craigmod.com/journal/ipad_and_books/) (2010, web)
 
 **January 30: The invention of writing coincides with the emergence of civilization.**
