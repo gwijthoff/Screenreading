@@ -90,8 +90,8 @@ In keeping with the topic of the course, all readings will be provided in electr
 
 **January 30: The invention of writing coincides with the emergence of civilization.**
 
-- Denise Schmandt-Besserat, *How Writing Came About* (1997, protected pdf), pp. 1-85
-- Lydia Liu, "Writing," in *Critical Terms for Media Studies* (2010, protected pdf)
+- Denise Schmandt-Besserat, [*How Writing Came About*](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Schmandt-Besserat_1996_How_writing_came_about-CH1-5.pdf) (1997, protected pdf), pp. 1-85
+- Lydia Liu, ["Writing"](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Liu_2010_Writing.pdf), in *Critical Terms for Media Studies* (2010, protected pdf)
 - Steven Roger Fischer, [*A History of Reading*](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Fischer_2003_A_History_of_Reading_CH1-2.pdf) (2003, protected pdf), pp. 11-98
     - "The Immortal Witness"
     - "The Papyrus Tongue"
@@ -131,7 +131,7 @@ Supplementary:
 
 **February 20: It took 200 years for libraries to shelve print & manuscript as separate entities.**
 
-- David McKitterick, *Print, Manuscript, and the Search for Order, 1450-1830* (2003), p. 1-52
+- David McKitterick, [*Print, Manuscript, and the Search for Order, 1450-1830*](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/McKitterick_2003_Print,_manuscript,_and_the_search_for_order,_1450-1830-CH1-2.pdf) (2003), p. 1-52
     - 1. The Printed Word and the Modern Bibliographer
     - 2. Dependent Skills
 - Adrian Johns, [*The Nature of the Book: Print and Knowledge in the Making*](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Johns_1998_The_nature_of_the_book_-_print_and_knowledge_in_the_making-CH1_CH6.pdf) (2000), pp. 1-57, 380-443
@@ -143,7 +143,7 @@ Supplementary:
 
 - Roger Chartier, [*The Order of Books: Readers, Authors, and Libraries in Europe between the Fourteenth and Eighteenth Centuries*](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Chartier_1994_The_order_of_books_-_readers,_authors,_and_libraries_in_Europe_between_the.pdf) (1992), 92pp
 - Roger Chartier, ["Texts, Printings, Readings,"](https://github.com/gwijthoff/Screenreading/blob/master/readings/week6%20-%20reproducibility/Chartier_1989_Texts%2C_Printings%2C_Readings.pdf/?raw=true) in *The New Cultural History*, ed. Hunt (1989)
-- Anthony Grafton, "Codex in Crisis: The Book Dematerializes", in *Worlds Made By Words: Scholarship and Community in the Modern West* (2009), pp. 288-326.
+- Anthony Grafton, ["Codex in Crisis: The Book Dematerializes"](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Grafton_2009_Codex_in_Crisis_-_The_Book_Dematerializes.pdf), in *Worlds Made By Words: Scholarship and Community in the Modern West* (2009), pp. 288-326.
 - Assignment with [X-Ray Goggles](https://goggles.webmaker.org/) by [Mozilla Webmaker](https://webmaker.org/): remix and publish one website.
 
 **March 6: "They conveyed their thoughts to one another in an instant over cities or mountains."**
