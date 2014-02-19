@@ -8,16 +8,16 @@ bibliography: /users/grantwythoff/documents/teaching/screenreading/relevant_read
 csl: /users/grantwythoff/tex/_chicago-fullnote-nobib.csl
 ---
 
-> In the semiotic engineering theory of human-computer interaction, "interactive computer systems are viewed as one-shot messages sent from designers to users.  Through the system's interface, in many direct and indirect ways, designers are telling the users how they can, should, or must interact with the system in order to achieve a particular range of goals anticipated at design time." [@de_souza_semiotic_2005]
+> *In the semiotic engineering theory of human-computer interaction, "interactive computer systems are viewed as one-shot messages sent from designers to users.  Through the system's interface, in many direct and indirect ways, designers are telling the users how they can, should, or must interact with the system in order to achieve a particular range of goals anticipated at design time."* [@de_souza_semiotic_2005]
 
-> "A semiotic perspective is particularly attractive for HCI because it underlies the fact that every computer artifact necessarily introduces new signs or sign systems in its users' universe."
+> *"A semiotic perspective is particularly attractive for HCI because it underlies the fact that every computer artifact necessarily introduces new signs or sign systems in its users' universe."*
 
-> "…designer-user communication at interaction time is a new type of human communication, constrained by formal computational factors."
+> *"…designer-user communication at interaction time is a new type of human communication, constrained by formal computational factors."*
 
 Description
 ============
 
-Following the **semiotic engineering** approach to interface design, this lab provides the opportunity to assess the approach taken by various digital platforms to textual annotation.  According to semiotic engineering, 
+Following the **semiotic engineering** approach to interface design, this lab provides the opportunity to assess the approach taken by various digital platforms to textual annotation.
 
 Platforms
 ----------
@@ -90,4 +90,4 @@ Jakob Nielsen's [usability Heuristics](http://www.nngroup.com/articles/ten-usabi
 Acknowledgements
 -----------------
 
-Portions of this assignment are taken from the Brown Women Writer's Project [Collaborative Annotation Assignment](http://www.wwp.brown.edu/wwo/teaching/assignments/annotation.html).
+Portions of this assignment are taken from the Brown Women Writer's Project [Collaborative Annotation Assignment](http://www.wwp.brown.edu/wwo/teaching/assignments/annotation.html).^[<http://www.wwp.brown.edu/wwo/teaching/assignments/annotation.html>]
