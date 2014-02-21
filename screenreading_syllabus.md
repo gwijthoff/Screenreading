@@ -148,15 +148,18 @@ Supplementary:
 
 **March 6: "They conveyed their thoughts to one another in an instant over cities or mountains."**
 
-- Andrew Piper, *Dreaming in Books: Making of the Bibliographic Imagination in the Romantic Age* (2009), pp. 1-18, 121-152, 235-245
+- Andrew Piper, [*Dreaming in Books: Making of the Bibliographic Imagination in the Romantic Age*](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Piper_2009_Dreaming_in_books_-_the_making_of_the_bibliographic_imagination_in_the_Romantic.pdf) (2009), pp. 1-18, 121-152, 235-245
     - Introduction: Bibliographic Subjects
     - 4. Sharing
     - In Place of an Afterword: Next to the Book
+- ["Future of the Book"](http://www.ideo.com/work/future-of-the-book/) (2010), ["Zinio"](http://www.ideo.com/work/zinio-reader/) (2001), and Ideo's design exploration of digital reading.
+- \[Readings on sharing ebooks\]
+
+Supplementary:
+
 - Elspeth Jajdelska, *Silent Reading and the Birth of the Narrator* (2007), pp. 21-75
     - 1. Income, Ideology, and Childhood Reading
     - 2. Pausing for Effect
-- ["Future of the Book"](http://www.ideo.com/work/future-of-the-book/) (2010), ["Zinio"](http://www.ideo.com/work/zinio-reader/) (2001), and Ideo's design exploration of digital reading.
-- \[Readings on sharing ebooks\]
 
 ***March 12: LAB 2: Writing***
 
@@ -192,7 +195,7 @@ Supplementary:
 
 **April 3: Media reconfigure the logic of the senses.**
 
-- Anne Friedberg, *The Virtual Window: From Alberti to Microsoft* (2009), pp. 1-24, 101-148, 191-248
+- Anne Friedberg, [*The Virtual Window: From Alberti to Microsoft*](http://quod.lib.umich.edu.ezproxy.cul.columbia.edu/cgi/t/text/text-idx?c=acls;idno=heb08244) (2009), pp. 1-24, 101-148, 191-248
     - Introduction: The Virtual Window
     - 3. The Age of 'Windows'
     - 5. The Multiple
