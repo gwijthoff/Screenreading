@@ -167,10 +167,10 @@ Supplementary:
 
 **March 13:**
 
-- Ellen Gruber Garvey, *Writing with Scissors: American Scrapbooks from the Civil War to the Harlem Renaissance* (2012)
-    - \[selections\]
-- Leah Price, *How to Do Things With Books in Victorian Britain* (2012). We'll annotate this on Institute for the Future of the Book's "SocialBook" platform.
-- Leah Price, "You Are What You Read," *The New York Times,* Dec. 23, 2007.
+- Leah Price, *How to Do Things With Books in Victorian Britain* (2012)
+    - [Introduction](http://www.livemargin.com/socialbook/client/book_profile.html?bookId=531e0dbce4b03dd4ade3226c)
+    - [7. The Book as Waste: Henry Mayhew and the Fall of Paper Recycling](http://www.livemargin.com/socialbook/client/book_profile.html?bookId=531e17d0e4b03dd4ade322d6)
+- Ellen Gruber Garvey, "[Scissoring and Scrapbooks: Nineteenth-Century Reading, Remaking, and Recirculating](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Garvey_2003_Scissoring_and_Scrapbooks_-_Nineteenth-Century_Reading%2C_Remaking%2C_and.pdf)" (2003)
 - Michel de Certeau, ["Reading as Poaching,"](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/de_Certeau_2011_Reading_as_Poaching.pdf) in *The Practice of Everyday Life* (1984), pp. 166-175
 
 ***March 17-23: Spring Break***
