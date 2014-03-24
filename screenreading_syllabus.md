@@ -180,7 +180,7 @@ Supplementary:
 **March 27: Texts cannot be said to have fixed properties; they are always in flux.**
 
 - \[Intro to textual studies\]
-- Jerome McGann, *Radiant Textuality: Literature After the World Wide Web* (2001), pp. 1-28, 137-166, 193-208
+- Jerome McGann, [*Radiant Textuality: Literature After the World Wide Web*](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/McGann_2004_Radiant_textuality-intro-ch5-7.pdf) (2001), pp. 1-28, 137-166, 193-208
     - Introduction. Beginning Again: Humanities and Digital Culture, 1993-2000
     - 5. Rethinking Textuality
     - 7. Dialogue and Interpretation at the Interface of Man and Machine
