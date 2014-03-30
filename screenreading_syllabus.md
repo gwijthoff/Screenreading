@@ -200,7 +200,7 @@ Supplementary:
     - 3. The Age of 'Windows'
     - 5. The Multiple
     - Conclusion: The Future of Windows: Smart Glass, Streaming Portals, and Screenless Images
-- Johanna Drucker, "Reading Interface," *PMLA* (2013)
+- Johanna Drucker, ["Reading Interface,"](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Drucker_2013_Reading_Interface.pdf) *PMLA* (2013)
 - Write an epistle with [Between Page and Screen](http://www.betweenpageandscreen.com/epistles)
 
 **April 10: Multitasking threatens attention span and the ability to sustain complex thought.**
