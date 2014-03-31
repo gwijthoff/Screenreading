@@ -195,9 +195,7 @@ Supplementary:
 
 **April 3: Media reconfigure the logic of the senses.**
 
-- Anne Friedberg, [*The Virtual Window: From Alberti to Microsoft*](http://quod.lib.umich.edu.ezproxy.cul.columbia.edu/cgi/t/text/text-idx?c=acls;idno=heb08244) (2009), pp. 1-24, 101-148, 191-248
-    - Introduction: The Virtual Window
-    - 3. The Age of 'Windows'
+- Anne Friedberg, [*The Virtual Window: From Alberti to Microsoft*](http://quod.lib.umich.edu.ezproxy.cul.columbia.edu/cgi/t/text/text-idx?c=acls;idno=heb08244) (2009)
     - 5. The Multiple
     - Conclusion: The Future of Windows: Smart Glass, Streaming Portals, and Screenless Images
 - Johanna Drucker, ["Reading Interface,"](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Drucker_2013_Reading_Interface.pdf) *PMLA* (2013)
