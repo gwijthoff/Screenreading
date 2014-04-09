@@ -203,12 +203,10 @@ Supplementary:
 
 **April 10: Multitasking threatens attention span and the ability to sustain complex thought.**
 
-- N. Katherine Hayles, "Print is Flat, Code is Deep: The Importance of Media-Specific Analysis," *Poetics Today* (Spring 2004)
+- Betsy Sparrow, Jenny Liu, and Daniel M. Wegner, ["Google Effects on Memory: Cognitive Consequences of Having Information at Our Fingertips,"](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Sparrow_et_al_2011_Google_Effects_on_Memory_-_Cognitive_Consequences_of_Having_Information_at_Our2.pdf) *Science* (2011)
 - Alexis Madrigal, ["Books on Paper Fight Analog Distractions"](http://www.theatlantic.com/technology/archive/2012/03/books-on-paper-fight-analog-distractions/254049/) (2012)
 - Nicholas Carr, ["Is Google Making Us Stupid?"](http://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/) (2008)
-- Michael Cobb, "A Little Like Reading: Preference, Facebook, and Overwhelmed Interpretations," *PMLA* (2013)
-- Naomi S. Baron, "Redefining Reading: The Impact of Digital Communication Media" *PMLA* (2013)
-- Betsy Sparrow, Jenny Liu, and Daniel M. Wegner, "Google Effects on Memory: Cognitive Consequences of Having Information at Our Fingertips," *Science* (2011)
+- Naomi S. Baron, ["Redefining Reading: The Impact of Digital Communication Media"](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Baron_2013_Redefining_Reading_-_The_Impact_of_Digital_Communication_Media.pdf) *PMLA* (2013)
 
 Supplementary:
 
