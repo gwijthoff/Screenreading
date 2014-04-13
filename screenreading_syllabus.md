@@ -19,7 +19,7 @@ work is licensed under a
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/">Creative
 Commons Attribution 3.0 United States License</a>.
 
-* * * * * 
+* * * * * mother
 
 [**Skip to the schedule…**](#schedule)
 
@@ -215,12 +215,16 @@ Supplementary:
 
 **April 17: Reading takes place within feedback loops between old and new technologies.**
 
-- Andrew Piper, *Book Was There: Reading in Electronic Times* (2012)
-- N. Katherine Hayles, *My Mother Was a Computer* (2005), pp. 1-14, 89-116
+- N. Katherine Hayles, [*My Mother Was a Computer*](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Hayles_2005_My_mother_was_a_computer_digital_subjects_and_literary_texts-prologue_ch4.pdf) (2005), pp. 1-14, 89-116
     - Prologue: Computing Kin
     - 4. Translating Media
+- N. Katherine Hayles, ["How We Read: Close, Hyper, Machine"](http://nkhayles.com/how_we_read.html) (2011, right click to save PDF)
 - James Bridle, ["How to See Through the Cloud"](https://stml.makes.org/thimble/how-to-see-through-the-cloud) (2013), a brief introduction to the physical structure of the web
 - Roundup of [Implementing New Knowledge Environments](http://www.dh2012.uni-hamburg.de/conference/programme/abstracts/designing-interactive-reading-environments-for-the-online-scholarly-edition/) (INKE) projects from DH2012
+
+Supplementary:
+
+- Andrew Piper, *Book Was There: Reading in Electronic Times* (2012)
 
 **April 24: There have been 129,864,880 books published, ever.**
 
