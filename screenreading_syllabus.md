@@ -228,9 +228,8 @@ Supplementary:
 
 **April 24: There have been 129,864,880 books published, ever.**
 
-- Franco Moretti, *Graphs, Maps, Trees: Abstract Models for Literary History* (2007)
-- D. Sculley and Bradley Pasanek, "Meaning and Mining: The Impact of Implicit Assumptions in Data Mining for the Humanities," *Literary and Linguistic Computing* (2008)
-- Robert Darnton, ["Google and the Future of Books,"](http://www.nybooks.com/articles/archives/2009/feb/12/google-the-future-of-books/?pagination=false) *New York Review of Books* (2009)
+- Franco Moretti, [*Graphs, Maps, Trees: Abstract Models for Literary History*](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Moretti_2007_Graphs%2C_maps%2C_trees_-_abstract_models_for_literary_history.pdf) (2007)
+- D. Sculley and Bradley Pasanek, ["Meaning and Mining: The Impact of Implicit Assumptions in Data Mining for the Humanities,"](https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Sculley_Pasanek_2008_Meaning_and_mining_-_the_impact_of_implicit_assumptions_in_data_mining_for_the.pdf) *Literary and Linguistic Computing* (2008)
 
 Supplementary:
 
