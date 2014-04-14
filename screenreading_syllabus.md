@@ -251,10 +251,14 @@ Supplementary:
 - Craig Mod, ["Embracing the Digital Book"](http://craigmod.com/journal/ebooks/) (2010)
 
 - Tao Lin, *Taipei* (2013)
-- Lutz Koepnick, "Reading on the Move," *PMLA* (2013)
 - Sonja Todd, ["My Latest Article is a PDF"](http://www.themillions.com/wp-content/uploads/2013/08/MyLatestArticleisaPDFedit.pdf), *The Millions* (2013)
-- \[something on [Alt Lit](http://www.futurebook.net/content/publishing-about-come-face-face-corridor-mirrors-alt-lit)\]
-- **Show and Tell: Recent Artifactual Books** (I'll bring copies of these in)
+- Dan Holloway, ["Is publishing about to come face to face with the corridor of mirrors that is Alt Lit?"](http://www.futurebook.net/content/publishing-about-come-face-face-corridor-mirrors-alt-lit)\]
+ 
+Supplementary:
+
+- Lutz Koepnick, ["Reading on the Move,"](http://lutzkoepnick.com/?p=269) *PMLA* (2013)
+
+**Show and Tell: Recent Artifactual Books** (I'll bring copies of these in)
     - Amaranth Claire Borsuk and Brad Bouse, *Between Page and Screen* (2012)
     - Anne Carson and Gaius Valerius Catullus, *Nox* (2010)
     - Mark Z. Danielewski, *Only Revolutions* (2006) and *The Fifty Year Sword* (2012)
