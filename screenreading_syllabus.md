@@ -259,13 +259,14 @@ Supplementary:
 - Lutz Koepnick, ["Reading on the Move,"](http://lutzkoepnick.com/?p=269) *PMLA* (2013)
 
 **Show and Tell: Recent Artifactual Books** (I'll bring copies of these in)
-    - Amaranth Claire Borsuk and Brad Bouse, *Between Page and Screen* (2012)
-    - Anne Carson and Gaius Valerius Catullus, *Nox* (2010)
-    - Mark Z. Danielewski, *Only Revolutions* (2006) and *The Fifty Year Sword* (2012)
-    - Jonathan Safran Foer, *Tree of Codes* (2010)
-    - Steven Hall, *The Raw Shark Texts: A Novel* (2007)
-    - B.S. Johnson, *The Unfortunates* (1969/2007)
-    - J.J. Abrams and Doug Dorst, *S* (2013)
+
+- Amaranth Claire Borsuk and Brad Bouse, *Between Page and Screen* (2012)
+- Anne Carson and Gaius Valerius Catullus, *Nox* (2010)
+- Mark Z. Danielewski, *Only Revolutions* (2006) and *The Fifty Year Sword* (2012)
+- Jonathan Safran Foer, *Tree of Codes* (2010)
+- Steven Hall, *The Raw Shark Texts: A Novel* (2007)
+- B.S. Johnson, *The Unfortunates* (1969/2007)
+- J.J. Abrams and Doug Dorst, *S* (2013)
 
 * * * 
 
