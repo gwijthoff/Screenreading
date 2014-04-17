@@ -44,7 +44,7 @@ Each week, students will post 400-word **writing exercises** to the CourseWorks 
 
 Your **essay project** will use one of a number of digital platforms we explore throughout the semester.  You will be expected to not only compose an original argument or narrative, but to highlight and reflect critically on the affordances of the platform you choose.  Further details to follow.
 
-In order to help you focus your reading and to serve as a mnemonic device, I will provide key terms for each week of class. Your **final exam** (DUE THURS, MAY 15) will consist of a selection of these terms, which you will be asked to define. Please note that the definition I will request is not the dictionary definition of the term, but an elucidation of the term as we have used it in the context of the class: in our discussions, in our readings, and in our project work. You will be expected to cite relevant authors (though not exact quotes or page numbers) as well as class discussions.
+In order to help you focus your reading and to serve as a mnemonic device, I will provide key terms for each week of class. Your **final exam** (DUE FRI, MAY 9) will consist of a selection of these terms, which you will be asked to define. Please note that the definition I will request is not the dictionary definition of the term, but an elucidation of the term as we have used it in the context of the class: in our discussions, in our readings, and in our project work. You will be expected to cite relevant authors (though not exact quotes or page numbers) as well as class discussions.
 
 ## Laptop policy
 
