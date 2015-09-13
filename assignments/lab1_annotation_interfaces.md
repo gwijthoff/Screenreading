@@ -90,4 +90,4 @@ Jakob Nielsen's [usability Heuristics](http://www.nngroup.com/articles/ten-usabi
 Acknowledgements
 -----------------
 
-Portions of this assignment are taken from the Brown Women Writer's Project [Collaborative Annotation Assignment](http://www.wwp.brown.edu/wwo/teaching/assignments/annotation.html).^[<http://www.wwp.brown.edu/wwo/teaching/assignments/annotation.html>]
+Portions of this assignment are taken from the Brown Women Writer's Project [Collaborative Annotation Assignment](http://www.wwp.brown.edu/wwo/teaching/assignments/annotation.html).^[<http://www.wwp.northeastern.edu/wwo/teaching/assignments/annotation.html>]
